@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "Bayi",
+      "normal_price": 19900,
+      "discount_price": 14900,
+      "user_count": 938
+    },
+    {
+      "name": "Pelajar",
+      "normal_price": 49900,
+      "discount_price": 23450,
+      "user_count": 4168
+    },
+    {
+      "name": "Personal",
+      "normal_price": 58900,
+      "discount_price": 38900,
+      "user_count": 10017
+    },
+    {
+      "name": "Bisnis",
+      "normal_price": 109900,
+      "discount_price": 65900,
+      "user_count": 3552
+    }
+  ]
+}
